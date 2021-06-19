@@ -1,8 +1,8 @@
-# BadgerStaffPanel
+# CSRPStaffPannel
 
 ## What is it?
 
-BadgerStaffPanel is a staff panel I wrote for my FiveM server I used to run named Prime Network. It's a pretty basic but effective staff panel which can easily be installed for usage with your FiveM server. Feel free to use it on your servers, just make sure to leave a star and follow on my GitHub as appreciation :)
+CSRPStaffPannel is a staff panel I use for my FiveM server I run named  California State Roleplay. It's a pretty basic but effective staff panel which can easily be installed for usage with your FiveM server.
 
 # Images
 
@@ -17,6 +17,3 @@ BadgerStaffPanel is a staff panel I wrote for my FiveM server I used to run name
 
 ## Account Details Page
 ![Staff Panel Account Details](https://i.gyazo.com/d425e900accfd242cd2d10c2963ea50f.png)
-
-# Documentation
-https://docs.badger.store/badger-software/badgerstaffpanel
